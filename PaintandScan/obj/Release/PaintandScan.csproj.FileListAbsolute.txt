@@ -1,0 +1,8 @@
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Release\PaintandScan.exe.config
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Release\PaintandScan.exe
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Release\PaintandScan.pdb
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Release\PaintandScan.Form1.resources
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Release\PaintandScan.Properties.Resources.resources
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Release\PaintandScan.csproj.GenerateResource.Cache
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Release\PaintandScan.exe
+C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Release\PaintandScan.pdb
