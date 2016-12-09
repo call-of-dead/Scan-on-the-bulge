@@ -1,9 +1,0 @@
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Debug\PaintandScan.exe.config
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Debug\PaintandScan.exe
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\bin\Debug\PaintandScan.pdb
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.csprojResolveAssemblyReference.cache
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.Form1.resources
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.Properties.Resources.resources
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.csproj.GenerateResource.Cache
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.exe
-C:\Users\Дмитрий ПРО\YandexDisk-diman-pro@myprogram.us\codes\Пользовательские интерфейсы\PaintandScan\PaintandScan\obj\Debug\PaintandScan.pdb
